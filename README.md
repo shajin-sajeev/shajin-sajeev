@@ -48,40 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajin-sajeev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shajin-sajeev&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shajin-sajeev&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📌 Featured Work
-
-<p align="center">
-  <a href="https://github.com/shajin-sajeev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shajin-sajeev&repo=Printavo-Connector&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/shajin-sajeev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shajin-sajeev&repo=Ecommerce-System&theme=tokyonight"/>
-  </a>
-</p>
-
----
-
-## 🧠 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shajin-sajeev/shajin-sajeev/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
